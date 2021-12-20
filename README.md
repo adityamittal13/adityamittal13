@@ -18,7 +18,7 @@ My goal in life is to bring about social change and enable solutions to pressing
 <ul>
   <li><a href="https://horizonreport1.s3-us-west-1.amazonaws.com/report.html">Mendelian Randomization for Causal Inference of Blood-Related Risk Factors on Infectious Diseases</a></li>
   <li><a href="http://asdrp.s3-website-us-west-1.amazonaws.com/">Using Machine Learning to Determine the Causal Relationship of Age on COVID-19 Symptom Progression Period, Infection Rate Percentage, and Recurring Symptoms</a></li>
-  <li><a href="http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/">Determining Smallest Path Size of MultiplicationTransducers Without a Restricted Digit Set</a></li>
+  <li><a href="http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/">Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set</a></li>
 </ul>
 
 ### Skills 
