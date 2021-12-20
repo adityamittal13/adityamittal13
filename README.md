@@ -21,7 +21,7 @@ My goal in life is to bring about social change and enable solutions to pressing
   <li><a href="http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/">Determining Smallest Path Size of MultiplicationTransducers Without a Restricted Digit Set</a></li>
 </ul>
 
-### Skills
+### Skills 
 <p>
 <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
