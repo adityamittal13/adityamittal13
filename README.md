@@ -8,7 +8,7 @@ Hey, I'm Aditya, a 17-year-old entrepreneur with a mission to use technology to 
 My goal in life is to bring about social change and enable solutions to pressing issues the world faces using emerging technologies.
 
 ### Recent Ventures
-<ul>
+<ul> 
   <li> 🌊 &nbsp; A paid summer internship at Ocean Genomics, determining how to increase the accuracy of degraded RNA-seq samples using ML and statistical analysis. </li>
   <li> 🏠 &nbsp; An internship at Twitter for Good under St. Anthony's Foundation, determining optimal placement of homeless shelters in the SF Tenderloin area using census data. </li>
   <li> 🧬 &nbsp; Discovering signaling and regulatory pathways through analysis of genome-wide association study leukemia data. </li>
