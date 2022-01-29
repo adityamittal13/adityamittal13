@@ -13,7 +13,7 @@ My goal in life is to bring about social change and enable solutions to pressing
   <li> 🏠 &nbsp; An internship at Twitter for Good under St. Anthony's Foundation, determining optimal placement of homeless shelters in the SF Tenderloin area using census data. </li>
   <li> 🧬 &nbsp; Discovering signaling and regulatory pathways through analysis of genome-wide association study leukemia data. </li>
 </ul>
-
+ 
 ### My Publications
 <ul>
   <li><a href="https://horizonreport1.s3-us-west-1.amazonaws.com/report.html">Mendelian Randomization for Causal Inference of Blood-Related Risk Factors on Infectious Diseases</a></li>
