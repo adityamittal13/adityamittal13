@@ -3,7 +3,7 @@
 ### About Me
      
 Hey, I'm Aditya, a 17-year-old entrepreneur with a mission to use technology to disrupt the biomedical industry using my knowledge in cloud computing, AI, and ML to build products and services.        
-     
+    
 My goal in life is to bring about social change and enable solutions to pressing issues the world faces using emerging technologies. 
    
 ### Recent Ventures 
