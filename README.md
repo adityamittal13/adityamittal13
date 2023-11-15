@@ -8,27 +8,24 @@ My goal in life is to bring about social change and enable solutions to pressing
     
 ### Recent Ventures 
 <ul> 
-  <li> 🌊 &nbsp; A paid summer internship at Ocean Genomics, determining how to increase the accuracy of degraded RNA-seq samples using ML and statistical analysis. </li>
-  <li> 🏠 &nbsp; An internship at Twitter for Good under St. Anthony's Foundation, determining optimal placement of homeless shelters in the SF Tenderloin area using census data. </li>
-  <li> 🧬 &nbsp; Discovering signaling and regulatory pathways through analysis of genome-wide association study leukemia data. </li>
+  <li> 🌊 &nbsp; Participated in a paid computer vision internship at CMU's Tarr Lab, creating debiasing systems on SOTA computer vision models to increase validation accuracy for minority classes. </li>
+  <li> 🏠 &nbsp; Developed ScottyConnect through CMUBTG, a platform to showcase the course pathways of upperclassmen and help guide underclassmen learning.  </li>
 </ul>
  
 ### My Publications
 <ul>
+   <li><a href="http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/">Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set</a></li>
   <li><a href="https://horizonreport1.s3-us-west-1.amazonaws.com/report.html">Mendelian Randomization for Causal Inference of Blood-Related Risk Factors on Infectious Diseases</a></li>
   <li><a href="http://asdrp.s3-website-us-west-1.amazonaws.com/">Using Machine Learning to Determine the Causal Relationship of Age on COVID-19 Symptom Progression Period, Infection Rate Percentage, and Recurring Symptoms</a></li>
-  <li><a href="http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/">Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set</a></li>
 </ul>
 
 ### Skills 
 <p>
 <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,8 +34,6 @@ My goal in life is to bring about social change and enable solutions to pressing
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <p>
 
