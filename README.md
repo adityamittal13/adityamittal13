@@ -8,8 +8,8 @@ My goal in life is to bring about social change and enable solutions to pressing
     
 ### Recent Ventures 
 <ul> 
-  <li> 🌊 &nbsp; Participated in a paid computer vision internship at CMU's Tarr Lab, creating debiasing systems on SOTA computer vision models to increase validation accuracy for minority classes. </li>
-  <li> 🏠 &nbsp; Developed ScottyConnect through CMUBTG, a platform to showcase the course pathways of upperclassmen and help guide underclassmen learning.  </li>
+  <li> &nbsp; Participated in a paid computer vision internship at CMU's Tarr Lab, creating debiasing systems on SOTA computer vision models to increase validation accuracy for minority classes. </li>
+  <li> &nbsp; Developed ScottyConnect through CMUBTG, a platform to showcase the course pathways of upperclassmen and help guide underclassmen learning.  </li>
 </ul>
  
 ### My Publications
